@@ -30,7 +30,7 @@ a:hover {
 
 #header {
  align-items: center;
- background-color: #BDC2BF;
+ background-color: #ECE4D5; /*#BDC2BF;*/
  color: #000;
  display: flex;
  left: 0;
