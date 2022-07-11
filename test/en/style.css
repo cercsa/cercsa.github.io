@@ -5,7 +5,7 @@
    footer blue: #224870 */
 
 body {
- background-color: #ECE4D5;
+ background-color: #FFFFFF; /* #ECE4D5;*/
  color: #000;
  display: flex;
  flex-direction: column;
@@ -108,7 +108,7 @@ a:hover {
 }
 
 #content {
- background-color: #ECE4D5;
+ background-color:#FFFFFF; /* #ECE4D5;*/
  color: #000;
  margin: 0;
  padding-left: 100px;
