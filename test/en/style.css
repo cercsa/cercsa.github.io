@@ -1,6 +1,7 @@
 
 /* header grey: #BDC2BF
    page beige:  #ECE4D5
+   alternative page white: #FFFFFF
    footer blue: #224870 */
 
 body {
@@ -100,7 +101,7 @@ a:hover {
 /* PAGE */
 
 #page {
- background-color: #ECE4D5;
+ background-color: #FFFFFF; /* #ECE4D5*/
  color: #000;
  margin: 0;
  padding: 0;
