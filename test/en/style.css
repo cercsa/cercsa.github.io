@@ -40,6 +40,7 @@ p {
 
 img {
  float: right;
+ margin: 30px 0 20px;
 }
 
 /* HEADER */
@@ -147,7 +148,7 @@ main {
  height: 100%;
  margin: 0 200px 0 200px;
  min-width: 900px;
- padding: 70px 80px 80px 80px;
+ padding: 40px 80px 80px 80px;
 }
 
 #content .row {
@@ -172,11 +173,11 @@ main {
  background-color: #f6f2ea;
  color: #000;
  font-family: Roboto,sans-serif;
- font-size: 38px;
+ font-size: 36px;
  font-weight: 300;
  letter-spacing: 2px;
  line-height: 1.1;
- margin: 0 0 20px;
+ margin: 30px 0 20px;
  padding: 0;
  word-spacing: 8px;
 }
