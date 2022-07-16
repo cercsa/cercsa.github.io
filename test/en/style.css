@@ -148,7 +148,7 @@ main {
  height: 100%;
  margin: 0 200px 0 200px;
  min-width: 900px;
- padding: 40px 80px 80px 80px;
+ padding: 30px 80px 60px 80px;
 }
 
 #content .row {
@@ -209,7 +209,7 @@ main {
 }
 
 #content p {
- font-size: 18px;
+ font-size: 17px;
  margin: 20px 0 0;
  max-width: 550px;
 }
@@ -245,7 +245,7 @@ footer {
 .footer-column {
  font-size: 14px;
  font-weight: normal;
- margin: 40px 0 40px;
+ margin: 38px 0 38px;
  padding: 0;
  text-align: left;
  width: 150px;
