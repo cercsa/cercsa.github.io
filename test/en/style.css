@@ -223,6 +223,10 @@ main {
  max-width: 650px;
 }
 
+.hpot {
+  display: none;
+}
+
 /* FOOTER */
 
 footer {
