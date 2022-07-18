@@ -282,6 +282,10 @@ footer {
  margin: 20px 0 0;
 }
 
-
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
 
 
